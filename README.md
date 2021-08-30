@@ -1,5 +1,5 @@
 # Custer UAV Flight Dynamics mathematical model 
-as per the thesis, implemented in MATLAB
+Custer UAV Flight Dynamics mathematical model as per the PhD thesis, implemented in MATLAB.
 
 call Load_params(1) to load all the Custer UAV parameters and generate plots.
 
